@@ -27,7 +27,7 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>LinkedIn__c</field>
+                <field>AB__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>
