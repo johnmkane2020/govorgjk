@@ -10413,6 +10413,11 @@
         <name>copadoconnect__Additional_Parameter__c</name>
     </customSettingAccesses>
     <fieldPermissions>
+        <editable>true</editable>
+        <field>Account.AI_Level__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
         <editable>false</editable>
         <field>Account.AccountNumber</field>
         <readable>false</readable>
@@ -24375,6 +24380,10 @@
     <userPermissions>
         <enabled>true</enabled>
         <name>AddDirectMessageMembers</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>AllowObjectDetectionTraining</name>
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
